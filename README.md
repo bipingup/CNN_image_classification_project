@@ -1,2 +1,5 @@
 # CNN_image_classification_project
-An image classification project using Convolutional Neural Networks (CNNs) implemented to understand the end-to-end deep learning pipeline, including preprocessing, model building, training, and evaluation.
+This is my first CNN-based image classification project.
+The model accuracy is not very high and predictions are not perfect.
+This project focuses on understanding the complete deep learning workflow
+including data preprocessing, CNN architecture design, training, and evaluation.
